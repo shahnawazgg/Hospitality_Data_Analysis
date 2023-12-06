@@ -1,6 +1,6 @@
 # AtliQ Hospitality Analysis - PowerBI
 
-
+Live Dashboard LInk  https://app.powerbi.com/view?r=eyJrIjoiMGRkMmNlNjItMTgwZC00MWU5LWFhZjItZjc1ZmM5ZTJiZGVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Problem statement
 
